@@ -6,7 +6,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 [![Follow](https://img.shields.io/github/followers/ashif1996?label=Follow&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashif1996?tab=followers)
 
-[![GitHub Stars](https://img.shields.io/github/stars/ashif1996?label=Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashif1996?tab=repositories)
+[![GitHub Stars](https://img.shields.io/github/stars/ashif1996?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashif1996?tab=repositories)
 
 ---
 
