@@ -1,4 +1,6 @@
-# Ashif Hassan | MERN Stack Developer
+# Hi there! 👋 I'm Ashif Hassan
+
+# MERN Stack Developer
 
 I'm a passionate Full Stack Developer focused on building impactful, user-friendly applications. Currently, I work with the MERN stack, and I'm always eager to learn more about new technologies.
 
@@ -27,8 +29,10 @@ Here are some of the technologies I work with:
 
 ---
 
-### Fun Fact
-Outside of my professional life, I am an avid hiker who loves exploring new trails and immersing myself in nature.
+### 🎯 Hobbies
+- 💪 I enjoy working out to stay fit and healthy.
+- 📚 Reading books is one of my favorite ways to expand my knowledge and relax.
+- 🎥 Watching YouTube videos helps me learn new things and stay updated on various topics.
 
 ---
 
