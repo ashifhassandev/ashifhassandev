@@ -7,7 +7,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 ---
 
 ### 👤 Follow Me
-- ![Follow](https://img.shields.io/github/followers/ashif1996?label=Follow&style=for-the-badge&color=blue&labelColor=blue)
+![Follow](https://img.shields.io/github/followers/ashif1996?label=Follow&style=for-the-badge&color=blue&labelColor=blue) [My GitHub](https://github.com/ashif1996)
 
 ---
 
