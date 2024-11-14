@@ -4,18 +4,18 @@ I'm a passionate Full Stack Developer focused on building impactful, user-friend
 
 ---
 
-### 🧰 Languages and Tools
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
-- ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- Git
-- Linux
-- HTML
-- CSS
-- TypeScript
-- Python
-- GitHub
-- Bash
+# My Skills
+
+Here are some of the technologies I work with:
+
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![Express](https://img.icons8.com/ios/50/000000/express.png) Express
+- ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) MongoDB
+- ![React](https://img.icons8.com/ios/50/000000/react.png) React
+- ![Git](https://img.icons8.com/ios/50/000000/git.png) Git
+- ![AWS](https://img.icons8.com/ios/50/000000/amazon-web-services.png) AWS
+
 
 ---
 
