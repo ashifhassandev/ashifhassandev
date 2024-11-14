@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ashif Hassan
 
-## MERN Stack Developer
+## MERN Stack Developer | BTech Graduate
 
 I’m a passionate Full Stack Developer focused on building impactful, user-friendly applications. Currently, I work with the MERN stack, and I’m always eager to learn more about new technologies. I’m open to collaborating on innovative projects that solve real-world problems, so feel free to connect if you have something exciting in mind!
 
