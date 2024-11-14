@@ -4,9 +4,8 @@
 
 I’m a passionate Full Stack Developer focused on building impactful, user-friendly applications. Currently, I work with the MERN stack, and I’m always eager to learn more about new technologies. I’m open to collaborating on innovative projects that solve real-world problems, so feel free to connect if you have something exciting in mind!
 
-[![Follow](https://img.shields.io/github/followers/ashif1996?label=Follow&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashif1996?tab=followers)
-
-[![GitHub Stars](https://img.shields.io/github/stars/ashif1996?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashif1996?tab=repositories)
+[![Follow](https://img.shields.io/github/followers/ashif1996?label=Follow&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashif1996?tab=followers) 
+[![Stars](https://img.shields.io/github/stars/ashif1996?label=Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashif1996?tab=stars)
 
 ---
 
