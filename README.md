@@ -7,7 +7,6 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 [![Follow](https://img.shields.io/github/followers/ashif1996?label=Follow&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashif1996?tab=followers)
 
 ---
-
 <br><br>
 
 ## My Skills
@@ -25,7 +24,6 @@ Here are some of the technologies I work with:
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white) - Familiar with AWS services for cloud deployment and management.
 
 ---
-
 <br><br>
 
 ### 📧 Contact Information
@@ -33,7 +31,6 @@ Here are some of the technologies I work with:
 - **LinkedIn**: [Ashif Hassan](https://www.linkedin.com/in/ashif-hassan-2a096b286)
 
 ---
-
 <br><br>
 
 ### 🎯 Hobbies
@@ -42,7 +39,6 @@ Here are some of the technologies I work with:
 - 🎥 Watching YouTube videos helps me learn new things and stay updated on various topics.
 
 ---
-
 <br><br>
 
 ### 👨🏽 **Pronouns**: He/Him
