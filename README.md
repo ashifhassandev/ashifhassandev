@@ -6,8 +6,8 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ---
 
-### 👤 Follow Me on GitHub
-[![Follow Me](https://img.shields.io/github/followers/ashif1996?label=Follow&style=social)](https://github.com/ashif1996)
+### 👤 Follow Me
+[![Follow](https://img.shields.io/github/followers/ashif1996?label=Follow&style=for-the-badge&color=blue)](https://github.com/ashif1996)
 
 ---
 
@@ -30,7 +30,6 @@ Here are some of the technologies I work with:
 ### 📧 Contact Information
 - **Email**: ashifhassan6666@gmail.com
 - **LinkedIn**: [Ashif Hassan](https://www.linkedin.com/in/ashif-hassan-2a096b286)
-- **GitHub**: [Ashif Hassan's GitHub](https://github.com/ashif1996)
 
 ---
 
