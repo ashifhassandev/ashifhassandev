@@ -8,13 +8,13 @@ I'm a passionate Full Stack Developer focused on building impactful, user-friend
 
 Here are some of the technologies I work with:
 
-- <i class="fab fa-js"></i> JavaScript
-- <i class="fab fa-node"></i> Node.js
-- <i class="fab fa-node"></i> Express (Font Awesome doesn’t have a direct Express icon, but Node.js can represent both)
-- <i class="fas fa-database"></i> MongoDB
-- <i class="fab fa-react"></i> React
-- <i class="fab fa-git"></i> Git
-- <i class="fab fa-aws"></i> AWS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![Express](https://img.icons8.com/ios/50/000000/express.png) Express
+- ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) MongoDB
+- ![React](https://img.icons8.com/ios/50/000000/react.png) React
+- ![Git](https://img.icons8.com/ios/50/000000/git.png) Git
+- ![AWS](https://img.icons8.com/ios/50/000000/amazon-web-services.png) AWS
 
 
 ---
