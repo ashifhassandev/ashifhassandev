@@ -16,6 +16,7 @@ Here are some of the technologies I work with:
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 
 
 ---
