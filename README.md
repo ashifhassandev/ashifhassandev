@@ -8,6 +8,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ---
 
+<br><br>
 
 ## My Skills
 
@@ -25,6 +26,7 @@ Here are some of the technologies I work with:
 
 ---
 
+<br><br>
 
 ### 📧 Contact Information
 - **Email**: ashifhassan6666@gmail.com
@@ -32,6 +34,7 @@ Here are some of the technologies I work with:
 
 ---
 
+<br><br>
 
 ### 🎯 Hobbies
 - 💪 I enjoy working out to stay fit and healthy. This discipline keeps me focused both in life and as a developer.
@@ -40,5 +43,6 @@ Here are some of the technologies I work with:
 
 ---
 
+<br><br>
 
 ### 👨🏽 **Pronouns**: He/Him
