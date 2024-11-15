@@ -43,3 +43,4 @@ Here are some of the technologies I work with:
 
 
 ### 👨🏽 **Pronouns**: He/Him
+- 🧑🏽‍💼 I'm biologically male and identify as a man.
