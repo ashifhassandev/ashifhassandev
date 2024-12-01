@@ -29,7 +29,7 @@ Here are some of the technologies I work with:
 
 ### 📧 Contact Information
 - **Email**: ashifhassan6666@gmail.com
-- **LinkedIn**: [Ashif Hassan](https://www.linkedin.com/in/ashif-hassan-2a096b286)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashif-hassan-2a096b286)
 
 ---
 
