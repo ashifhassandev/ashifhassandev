@@ -27,8 +27,8 @@ Here are some of the technologies I work with:
 --- 
 
 
-### 📧 Contact Information
-- **Email**: ashifhassan6666@gmail.com
+### 📧 **Contact Information**
+- **Email**: [ashifhassan6666@gmail.com](mailto:ashifhassan6666@gmail.com)  
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashif-hassan-2a096b286)
 
 ---
