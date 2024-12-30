@@ -69,6 +69,4 @@ Here are some of the technologies I work with:
 - 🧑🏽‍💼 I'm biologically male and identify as a man.
 
 ### 🌟 **Visitor Count**
-<div align="center">
-  ![Visitor Count](https://camo.githubusercontent.com/2a2d9df1c4f2b987b608d86ea02c635dc533a69bfd6db7d5d57fbaf42d0893c3/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4b3172734e377d2f636f756e742e737667)
-</div>
+![Visitor Count](https://camo.githubusercontent.com/2a2d9df1c4f2b987b608d86ea02c635dc533a69bfd6db7d5d57fbaf42d0893c3/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b4b3172734e377d2f636f756e742e737667)
