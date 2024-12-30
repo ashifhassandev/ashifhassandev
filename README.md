@@ -37,8 +37,9 @@ Here are some of the technologies I work with:
 [![Ashif's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=radical)](https://github.com/ashif1996)
 
 ### 📅 Contribution Graph
-![Ashif's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashif1996&theme=radical)
+![Ashif's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashif1996&theme=github)
 
+---
 
 ### 📧 **Contact Information**
 - [![Gmail](https://img.shields.io/badge/Gmail-ashifhassan6666@gmail.com-red?logo=gmail)](mailto:ashifhassan6666@gmail.com)
