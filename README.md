@@ -41,9 +41,6 @@ Here are some of the technologies I work with:
 | ![Ashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashif1996&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashif1996&layout=compact&theme=radical) |
 | --- | --- |
 
-### 📅 Commits
-![Commit Count](https://img.shields.io/badge/Commits-{commit_count}-blue)
-
 ### 🔥 Streak Stats
 [![Ashif's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=radical)](https://github.com/ashif1996)
 
