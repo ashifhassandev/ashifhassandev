@@ -47,6 +47,11 @@ Here are some of the technologies I work with:
 ### 📅 Contribution Graph
 [![Ashif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashif1996&theme=react-dark&hide_border=true&area=true)](https://github.com/ashif1996)
 
+### 🌟 **Visitor Count**
+<div align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/ashif1996/count.svg)
+</div>
+
 ---
 
 ### 📧 **Contact Information**
@@ -67,6 +72,3 @@ Here are some of the technologies I work with:
 
 ### 👤 **Pronouns**: He/Him
 - 🧑🏽‍💼 I'm biologically male and identify as a man.
-
-### 🌟 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/ashif1996/count.svg)
