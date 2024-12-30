@@ -44,6 +44,11 @@ Here are some of the technologies I work with:
 ### 🔥 Streak Stats
 [![Ashif's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=radical)](https://github.com/ashif1996)
 
+### 🌟 **GitHub Stats Animation**
+<div align="center">
+  ![Animated GIF](https://camo.githubusercontent.com/4bb41f8eede98dc2911821cfde0a191ac7af7dd4f32e05bafb11e62b2dc2c156/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b3172734e37267468656d653d7472616e73706172656e742672616e6b5f69636f6e3d676974687562267469746c655f636f6c6f723d30306162663026636f6c6f723d45334533453326746578745f636f6c6f723d44454445444526686964655f626f726465723d7472756526637573746f6d5f7469746c653d476974487562e2a08053746174732673686f775f69636f6e733d74727565)
+</div>
+
 ### 📅 Contribution Graph
 [![Ashif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashif1996&theme=react-dark&hide_border=true&area=true)](https://github.com/ashif1996)
 
