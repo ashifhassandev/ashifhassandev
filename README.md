@@ -37,7 +37,7 @@ Here are some of the technologies I work with:
 [![Ashif's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=radical)](https://github.com/ashif1996)
 
 ### 📅 Contribution Graph
-[![Ashif's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashif1996&theme=github&hide_border=true)](https://github.com/ashif1996)
+![Ashif's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashif1996&theme=radical)
 
 ---
 
