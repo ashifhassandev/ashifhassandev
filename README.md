@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Ashif+Hassan;Welcome+to+my+profile!&center=true&width=500&height=50)
+  ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Ashif+Hassan;Welcome+to+my+profile!&center=true&width=500&height=50&size=24)
 
 </div>
 
