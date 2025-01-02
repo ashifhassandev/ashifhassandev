@@ -69,10 +69,17 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 ##
 </br>
 
-### 📧 **Contact Information**
-- [![Gmail](https://img.shields.io/badge/Gmail-ashifhassan6666@gmail.com-red?logo=gmail)](mailto:ashifhassan6666@gmail.com)
- 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashif-hassan-2a096b286)
+<div align="center">
+  <a href="mailto:ashifhassan6666@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ashifhassandev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ashifhassandev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>  
+</div>
 
 ##
 </br>
