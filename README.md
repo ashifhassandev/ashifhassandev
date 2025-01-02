@@ -41,6 +41,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
   <img src="https://img.shields.io/badge/Framer-%23FF4F75?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
+---
 
 ## 💻 **GitHub Stats & Contributions**
 
