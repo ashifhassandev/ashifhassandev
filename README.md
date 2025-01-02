@@ -18,9 +18,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 ---
 
 
-### 💻 **My Skills**
-
-Here are some of the technologies I work with:
+### 💻 **Here are some of the technologies I work with:**
 
 ### 🧰 Languages and Tools
 
