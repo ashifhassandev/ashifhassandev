@@ -56,6 +56,8 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
 </p>
 
+</br>
+
 ### 📅 Contribution Graph
 [![Ashif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashif1996&theme=react-dark&hide_border=true&area=true)](https://github.com/ashif1996)
 
