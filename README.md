@@ -16,7 +16,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 [![Stars](https://img.shields.io/github/stars/ashif1996?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashif1996)
 
 ##
-</br></br>
+</br>
 
 <div align="center">
 
@@ -45,10 +45,9 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 </div> 
 
-
 ###
 
-<br clear="both">
+</br>
 
 ## 💻 **GitHub Stats & Contributions**
 
@@ -72,7 +71,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ##
 
-</br></br>
+</br>
 
 ### 📧 **Contact Information**
 - [![Gmail](https://img.shields.io/badge/Gmail-ashifhassan6666@gmail.com-red?logo=gmail)](mailto:ashifhassan6666@gmail.com)
@@ -81,7 +80,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ##
 
-</br></br>
+</br>
 
 
 ### 🎯 Hobbies
@@ -91,13 +90,13 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ##
 
-</br></br>
+</br>
 
 
 ### 👤 **Pronouns**: He/Him
 - 🧑🏽‍💼 I'm biologically male and identify as a man.
 
-</br></br>
+</br>
 
 <div align="center">
 
