@@ -63,7 +63,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 <div align="center">
 
-  <h1 align="center">Visitor Count</h1>
+  ### Visitor Count
 
   ![Visitor Count](https://profile-counter.glitch.me/ashif1996/count.svg)
 
@@ -71,7 +71,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 <div align="center">
 
-  <h1 align="center">Connect me</h1>
+  ### Connect Me
 
 </div>
 
