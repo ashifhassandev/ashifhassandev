@@ -115,3 +115,5 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
   ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;Feel+free+to+connect!&center=true&width=500&height=50&size=24)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
