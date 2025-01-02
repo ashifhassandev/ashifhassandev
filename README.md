@@ -63,13 +63,17 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 <div align="center">
 
-  ### Visitor Count
+  <h1 align="center">Visitor Count</h1>
 
   ![Visitor Count](https://profile-counter.glitch.me/ashif1996/count.svg)
 
 </div>
 
-<h1 align="center">Connect me</h1>
+<div align="center">
+
+  <h1 align="center">Connect me</h1>
+
+</div>
 
 <div align="center">
   <a href="mailto:ashifhassan6666@gmail.com" target="_blank">
