@@ -23,16 +23,18 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 Here are some of the technologies I work with:
 
 ### 🧰 Languages and Tools
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white) - Proficient in building dynamic web applications using JavaScript.
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237A1F8C?style=flat&logo=bootstrap&logoColor=white) - Using Bootstrap for responsive, mobile-first web development.
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) - Experienced in building RESTful APIs and server-side logic.
-- ![Express](https://img.shields.io/badge/Express-%23404d59?style=flat&logo=express&logoColor=white) - Skilled in designing fast and scalable back-end applications.
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white) - Experience with document-based database management.
-- ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white) - Developing dynamic user interfaces with React.js.
-- ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white) - Version control using Git to manage code repositories.
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white) - Familiar with AWS services for cloud deployment and management.
 
---- 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237A1F8C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 
 ## 💻 **GitHub Stats & Contributions**
