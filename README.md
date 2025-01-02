@@ -17,8 +17,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ---
 
-
-### 💻 **Here are some of the technologies I work with:**
+## I Code & Design with
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -39,9 +38,14 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
   <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-%23FF4F75?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+</p> 
 
----
+</div> 
+
+
+###
+
+<br clear="both">
 
 ## 💻 **GitHub Stats & Contributions**
 
