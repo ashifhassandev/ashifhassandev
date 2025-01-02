@@ -20,8 +20,6 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ### 💻 **Here are some of the technologies I work with:**
 
-### 🧰 Languages and Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-%237A1F8C?style=for-the-badge&logo=bootstrap&logoColor=white" />
