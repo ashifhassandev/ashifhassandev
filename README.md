@@ -1,10 +1,8 @@
-![Ashif's Header](https://camo.githubusercontent.com/ab5687870591755d81eae1f4ea58b6ffacd7f12700a8ba862c2b54f3be33d403/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303061626630266865696768743d37302673656374696f6e3d686561646572)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
 <div align="center">
-  
-  ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Ashif+Hassan;Welcome+to+my+profile!&center=true&width=500&height=50&size=24)
-
-</div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill" alt="Typing SVG" /></a>
+</div> 
+<br>
 
 # Hi there! 👋 I'm Ashif Hassan
 
@@ -114,6 +112,9 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
   ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;Feel+free+to+connect!&center=true&width=500&height=50&size=24)
 
+</div>
+
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
