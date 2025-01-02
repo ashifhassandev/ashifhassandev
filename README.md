@@ -45,8 +45,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 </div> 
 
-###
-
+##
 </br>
 
 ## 💻 **GitHub Stats & Contributions**
@@ -70,7 +69,6 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 </div>
 
 ##
-
 </br>
 
 ### 📧 **Contact Information**
@@ -79,7 +77,6 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashif-hassan-2a096b286)
 
 ##
-
 </br>
 
 
@@ -89,7 +86,6 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 - 🎥 Watching YouTube videos helps me learn new things and stay updated on various topics.
 
 ##
-
 </br>
 
 
