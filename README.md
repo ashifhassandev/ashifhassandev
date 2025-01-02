@@ -82,8 +82,6 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 ### 👤 **Pronouns**: He/Him
 - 🧑🏽‍💼 I'm biologically male and identify as a man.
 
----
-
 <div align="center">
 
   ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;Feel+free+to+connect!&center=true&width=500&height=50&size=24)
