@@ -17,6 +17,8 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
 ---
 
+<div align="center">
+
 ## I Code & Design with
 
 <p align="center">
