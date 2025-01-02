@@ -48,12 +48,6 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 ##
 </br>
 
-<div align="center">
-
-## 💻 **GitHub Stats & Contributions**
-
-</div>
-
 ### 📊 GitHub Stats & Top Languages
 | ![Ashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashif1996&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashif1996&layout=compact&theme=radical) |
 | --- | --- |
