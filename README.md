@@ -53,7 +53,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashif1996&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ashif1996&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&cache_seconds=1" alt="GitHub Streak" />
 </p>
 
 </br>
