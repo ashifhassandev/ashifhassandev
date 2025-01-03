@@ -64,6 +64,13 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 ##
 </br>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashif1996&theme=radical&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+##
+</br>
+
 <div align="center">
 
   ### Visitor Count
