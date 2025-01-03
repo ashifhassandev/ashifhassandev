@@ -59,13 +59,13 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 </br>
 
 ### 📅 Contribution Graph
-[![Ashif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashif1996&theme=react-dark&hide_border=true&area=true)](https://github.com/ashif1996)
+[![Ashif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashif1996&theme=react-dark&hide_border=true&area=true&cache_seconds=1)](https://github.com/ashif1996)
 
 </br>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashif1996&theme=radical&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashif1996&theme=radical&no-frame=true&margin-w=10&margin-h=10&cache_seconds=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 </br>
