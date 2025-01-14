@@ -12,8 +12,8 @@
 
 I’m a passionate Full Stack Developer focused on building impactful, user-friendly applications. Currently, I work with the MERN stack, and I’m always eager to learn more about new technologies. I’m open to collaborating on innovative projects that solve real-world problems, so feel free to connect if you have something exciting in mind!
 
-[![Follow](https://img.shields.io/github/followers/ashif1996?label=👤%20Follow%20+&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashif1996?tab=followers) &nbsp;&nbsp;
-[![Stars](https://img.shields.io/github/stars/ashif1996?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashif1996)
+[![Follow](https://img.shields.io/github/followers/ashifhassandev?label=👤%20Follow%20+&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashifhassandev?tab=followers) &nbsp;&nbsp;
+[![Stars](https://img.shields.io/github/stars/ashifhassandev?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashifhassandev)
 
 ##
 </br>
@@ -51,21 +51,21 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashif1996&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2&cache_seconds=1" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ashif1996&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2&cache_seconds=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashif1996&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&cache_seconds=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashifhassandev&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2&cache_seconds=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashifhassandev&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2&cache_seconds=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashifhassandev&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&cache_seconds=1" alt="GitHub Streak" />
 </p>
 
 </br>
 
 ### 📅 Contribution Graph
-[![Ashif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashif1996&theme=react-dark&hide_border=true&area=true&cache_seconds=1)](https://github.com/ashif1996)
+[![Ashif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashifhassandev&theme=react-dark&hide_border=true&area=true&cache_seconds=1)](https://github.com/ashifhassandev)
 
 </br>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashif1996&theme=radical&no-frame=true&margin-w=10&margin-h=10&cache_seconds=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashifhassandev&theme=radical&no-frame=true&margin-w=10&margin-h=10&cache_seconds=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 </br>
@@ -74,7 +74,7 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 
   ### Visitor Count
 
-  ![Visitor Count](https://profile-counter.glitch.me/ashif1996/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/ashifhassandev/count.svg)
 
 </div>
 
