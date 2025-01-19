@@ -18,28 +18,29 @@ I’m a passionate Full Stack Developer focused on building impactful, user-frie
 As a 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, I like to think of my profile like a 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻:
 
 ```
-interface Profile {
-    qualification: string;
-    role: string;
-    skills: string[];
+𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 {
+    𝐪𝐮𝐚𝐥𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧: 𝐬𝐭𝐫𝐢𝐧𝐠;
+    𝐫𝐨𝐥𝐞: 𝐬𝐭𝐫𝐢𝐧𝐠;
+    𝐬𝐤𝐢𝐥𝐥𝐬: 𝐬𝐭𝐫𝐢𝐧𝐠[];
 }
 
-const myProfile = (): Profile => ({
-    qualification: "BTech Graduate",
-    role: "MERN Stack Developer",
-    skills: [
-        "JavaScript",
-        "TypeScript",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "React",
-        "Git",
-        "GitHub",
-        "AWS",
-        "PostgreSQL"
+𝐜𝐨𝐧𝐬𝐭 𝐦𝐲𝐏𝐫𝐨𝐟𝐢𝐥𝐞 = (): 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 => ({
+    𝐪𝐮𝐚𝐥𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧: "𝐁𝐓𝐞𝐜𝐡 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞",
+    𝐫𝐨𝐥𝐞: "𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫",
+    𝐬𝐤𝐢𝐥𝐥𝐬: [
+        "𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭",
+        "𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭",
+        "𝐍𝐨𝐝𝐞.𝐣𝐬",
+        "𝐄𝐱𝐩𝐫𝐞𝐬𝐬",
+        "𝐌𝐨𝐧𝐠𝐨𝐃𝐁",
+        "𝐑𝐞𝐚𝐜𝐭",
+        "𝐆𝐢𝐭",
+        "𝐆𝐢𝐭𝐇𝐮𝐛",
+        "𝐀𝐖𝐒",
+        "𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋",
     ],
 });
+
 ```
 </br>
 
