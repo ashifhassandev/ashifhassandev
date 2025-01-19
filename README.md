@@ -12,19 +12,30 @@
 
 I’m a passionate Full Stack Developer focused on building impactful, user-friendly applications. Currently, I work with the MERN stack, and I’m always eager to learn more about new technologies. I’m open to collaborating on innovative projects that solve real-world problems, so feel free to connect if you have something exciting in mind!
 
-As a 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, I like to think of my profile like a 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻:
-
-𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 {
-    𝗾𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻: 𝘀𝘁𝗿𝗶𝗻𝗴;
-    𝗿𝗼𝗹𝗲: 𝘀𝘁𝗿𝗶𝗻𝗴;
-    𝘀𝗸𝗶𝗹𝗹𝘀: 𝘀𝘁𝗿𝗶𝗻𝗴[];
+```
+interface Profile {
+    qualification: string;
+    role: string;
+    skills: string[];
 }
 
-𝗰𝗼𝗻𝘀𝘁 𝗺𝘆𝗣𝗿𝗼𝗳𝗶𝗹𝗲 = (): 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 => ({
-    𝗾𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻: "𝗕𝗧𝗲𝗰𝗵 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲",
-    𝗿𝗼𝗹𝗲: "𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿",
-    𝘀𝗸𝗶𝗹𝗹𝘀: ["𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁", "𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁", "𝗡𝗼𝗱𝗲.𝗷𝘀", "𝗘𝘅𝗽𝗿𝗲𝘀𝘀", "𝗠𝗼𝗻𝗴𝗼𝗗𝗕", "𝗥𝗲𝗮𝗰𝘁", "𝗚𝗶𝘁", "𝗚𝗶𝘁𝗛𝘂𝗯", "𝗔𝗪𝗦", "𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟"],
+const myProfile = (): Profile => ({
+    qualification: "BTech Graduate",
+    role: "MERN Stack Developer",
+    skills: [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "React",
+        "Git",
+        "GitHub",
+        "AWS",
+        "PostgreSQL"
+    ],
 });
+```
 
 [![Follow](https://img.shields.io/github/followers/ashifhassandev?label=👤%20Follow%20+&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashifhassandev?tab=followers) &nbsp;&nbsp;
 [![Stars](https://img.shields.io/github/stars/ashifhassandev?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashifhassandev)
