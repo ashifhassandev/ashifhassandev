@@ -41,7 +41,6 @@ const myProfile = (): Profile => ({
     ],
 });
 ```
-##
 </br>
 
 <div align="center">
