@@ -12,6 +12,11 @@
 
 I’m a passionate Full Stack Developer focused on building impactful, user-friendly applications. Currently, I work with the MERN stack, and I’m always eager to learn more about new technologies. I’m open to collaborating on innovative projects that solve real-world problems, so feel free to connect if you have something exciting in mind!
 
+[![Follow](https://img.shields.io/github/followers/ashifhassandev?label=👤%20Follow%20+&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashifhassandev?tab=followers) &nbsp;&nbsp;
+[![Stars](https://img.shields.io/github/stars/ashifhassandev?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashifhassandev)
+
+As a 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, I like to think of my profile like a 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻:
+
 ```
 interface Profile {
     qualification: string;
@@ -36,10 +41,6 @@ const myProfile = (): Profile => ({
     ],
 });
 ```
-
-[![Follow](https://img.shields.io/github/followers/ashifhassandev?label=👤%20Follow%20+&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashifhassandev?tab=followers) &nbsp;&nbsp;
-[![Stars](https://img.shields.io/github/stars/ashifhassandev?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashifhassandev)
-
 ##
 </br>
 
